@@ -25,4 +25,4 @@ by terminal command:
 
 9.python keras_retinanet/bin/train.py --freeze-backbone --random-transform --weights ./snapshots/weigthfile --batch-size 5 --steps 895 --epochs 10 csv ../anotcsvfile ../classcsvfile
 
-or you can 
+

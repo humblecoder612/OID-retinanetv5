@@ -13,6 +13,10 @@ by terminal command:
 
 5. run csv split script for training into batches
 
+6.Open the jupyter notebook from there you can do every action step by step
+
+                                                                OR 
+
 6.cd keras-retinanet/
 
 7. pip install .
@@ -21,3 +25,4 @@ by terminal command:
 
 9.python keras_retinanet/bin/train.py --freeze-backbone --random-transform --weights ./snapshots/weigthfile --batch-size 5 --steps 895 --epochs 10 csv ../anotcsvfile ../classcsvfile
 
+or you can 

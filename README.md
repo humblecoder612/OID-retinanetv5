@@ -15,8 +15,8 @@ by terminal command:
 
 6.Open the jupyter notebook from there you can do every action step by step
 
-                                                                OR 
-
+OR
+                                 
 6.cd keras-retinanet/
 
 7. pip install .
